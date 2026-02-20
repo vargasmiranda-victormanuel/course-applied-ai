@@ -1,1 +1,8 @@
 Instructions to run locally
+
+#Create proyect
+specify init mi-proyecto
+
+#Initiate proyect
+cd mi-proyecto
+specify init . --ai copilot
