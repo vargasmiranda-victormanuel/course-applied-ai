@@ -1,0 +1,20 @@
+# RAG Pipeline Dependencies
+# For chunk.py and rag-pipeline.py
+
+# Text splitting and LangChain utilities
+langchain-text-splitters
+
+# Vector store and similarity search
+faiss-cpu
+
+# Sentence embeddings
+sentence-transformers
+
+# OpenAI API client
+openai
+
+# Environment variable management
+python-dotenv
+
+# Core dependencies (usually auto-installed but listed for clarity)
+numpy
