@@ -1,0 +1,58 @@
+POLÍTICAS GENERALES DE LA EMPRESA
+==================================
+
+1. POLÍTICA DE USO DE RECURSOS TECNOLÓGICOS
+
+El uso de los recursos tecnológicos de la empresa, incluyendo computadoras, redes, correo electrónico e internet, está destinado exclusivamente para actividades laborales. Queda prohibido el uso de estos recursos para actividades personales, entretenimiento o cualquier actividad que no esté relacionada con las funciones del puesto.
+
+Todo empleado deberá mantener la confidencialidad de sus credenciales de acceso. No está permitido compartir contraseñas ni permitir el acceso de terceros a los sistemas internos de la organización.
+
+La empresa se reserva el derecho de monitorear el uso de sus recursos tecnológicos con el fin de garantizar el cumplimiento de esta política y proteger la integridad de la información corporativa.
+
+2. POLÍTICA DE SEGURIDAD DE LA INFORMACIÓN
+
+La información es uno de los activos más valiosos de la empresa. Por ello, todos los empleados tienen la responsabilidad de protegerla contra accesos no autorizados, divulgación indebida, alteración o destrucción.
+
+Los documentos clasificados como confidenciales no deben ser compartidos con personas externas a la organización sin la autorización expresa de la dirección. Tampoco deben ser enviados por canales no seguros ni almacenados en dispositivos personales sin el cifrado adecuado.
+
+En caso de detectar una posible brecha de seguridad o comportamiento sospechoso, el empleado debe reportarlo de inmediato al Departamento de Tecnología de la Información.
+
+3. POLÍTICA DE CONDUCTA Y ÉTICA PROFESIONAL
+
+La empresa promueve un ambiente de trabajo basado en el respeto, la integridad y la colaboración. Se espera que todos los empleados actúen con profesionalismo en sus interacciones con compañeros, clientes y proveedores.
+
+No se tolerará ningún tipo de discriminación, acoso laboral o sexual, intimidación ni comportamiento que atente contra la dignidad de las personas. Cualquier incidente de este tipo debe ser reportado al Departamento de Recursos Humanos para su investigación y resolución.
+
+Los empleados deben evitar conflictos de interés y abstenerse de participar en actividades que puedan comprometer su objetividad o la reputación de la empresa.
+
+4. POLÍTICA DE TRABAJO REMOTO
+
+El trabajo remoto es una modalidad que permite a los empleados realizar sus funciones desde fuera de las instalaciones de la empresa, siempre que las condiciones del puesto lo permitan y exista acuerdo previo con el supervisor inmediato.
+
+Los empleados que trabajen de forma remota deben garantizar que cuentan con un espacio adecuado, conexión a internet estable y acceso seguro a los sistemas corporativos mediante VPN u otras herramientas autorizadas.
+
+El horario laboral en modalidad remota es el mismo que el presencial. Se espera puntualidad en reuniones virtuales y disponibilidad durante las horas de trabajo establecidas.
+
+5. POLÍTICA DE PRIVACIDAD Y PROTECCIÓN DE DATOS
+
+La empresa recopila y procesa datos personales de empleados, clientes y proveedores únicamente con fines legítimos y de conformidad con la legislación aplicable en materia de protección de datos.
+
+Los datos personales no serán compartidos con terceros sin el consentimiento del titular, salvo en los casos en que la ley así lo exija. Se tomarán las medidas técnicas y organizativas necesarias para garantizar la seguridad de dicha información.
+
+Todo empleado que maneje datos personales en el ejercicio de sus funciones deberá cumplir con los procedimientos establecidos en el manual de protección de datos y podrá ser sancionado por el incumplimiento de esta política.
+
+6. POLÍTICA DE CAPACITACIÓN Y DESARROLLO PROFESIONAL
+
+La empresa reconoce que el desarrollo del talento humano es fundamental para su crecimiento sostenible. Por ello, se ofrecerán programas de capacitación periódicos en áreas técnicas, habilidades blandas y liderazgo.
+
+Los empleados tienen la responsabilidad de participar activamente en las actividades de formación que les sean asignadas. Asimismo, se les anima a identificar sus necesidades de desarrollo y comunicarlas a sus supervisores durante las evaluaciones de desempeño.
+
+La empresa también apoyará la participación en congresos, certificaciones y cursos externos que estén alineados con los objetivos del área y de la organización.
+
+7. POLÍTICA DE SALUD Y SEGURIDAD OCUPACIONAL
+
+La seguridad y el bienestar de los empleados es una prioridad para la empresa. Se mantendrán condiciones de trabajo seguras y se cumplirá con todas las normativas vigentes en materia de salud y seguridad ocupacional.
+
+Los empleados deben reportar cualquier condición insegura, accidente o incidente laboral a su supervisor y al Departamento de Recursos Humanos de forma inmediata. No reportar un accidente puede resultar en consecuencias disciplinarias.
+
+Se realizarán inspecciones periódicas de las instalaciones y se llevará a cabo la capacitación necesaria para la prevención de riesgos laborales y el manejo adecuado de equipos y materiales.
