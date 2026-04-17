@@ -1,0 +1,66 @@
+SISTEMA MULTIAGENTE CON PATRÓN ROUTER — LangGraph
+==================================================
+
+REQUISITOS PREVIOS
+------------------
+1. Python 3.10+
+2. Una API key de OpenAI
+
+CONFIGURACIÓN
+-------------
+1. Crea un archivo .env en la raíz del proyecto (course-applied-ai/.env) con:
+
+   OPENAI_API_KEY=sk-...tu-clave-aqui...
+
+2. Instala las dependencias (desde la carpeta agente-router/):
+
+   pip install -r requirements.txt
+
+   O desde el entorno virtual del proyecto raíz:
+
+   pip install -r requirements.txt
+
+EJECUCIÓN
+---------
+Desde la raíz del proyecto:
+
+   python agente-router/agent.py
+
+O desde dentro de la carpeta:
+
+   cd agente-router
+   python agent.py
+
+SALIDA ESPERADA
+---------------
+El script ejecuta 3 casos de prueba y muestra el flujo completo:
+
+Caso 1: "Mi factura llegó con un cobro incorrecto"
+  → clasificador detecta: facturacion
+  → agente_facturacion responde apropiadamente
+
+Caso 2: "Quiero conocer los planes disponibles y sus precios"
+  → clasificador detecta: ventas
+  → agente_ventas responde apropiadamente
+
+Caso 3: "La aplicación no me deja iniciar sesión, muestra un error 403"
+  → clasificador detecta: tecnico
+  → agente_tecnico responde apropiadamente
+
+ARQUITECTURA DEL GRAFO
+----------------------
+
+   START
+     │
+     ▼
+ [clasificador]  ← usa LLM para detectar intención
+     │
+     ▼ (router condicional)
+  ┌──┴──────────────┐
+  │                 │                   │
+  ▼                 ▼                   ▼
+[ventas]       [tecnico]         [facturacion]
+  │                 │                   │
+  └─────────────────┴───────────────────┘
+                    │
+                   END
